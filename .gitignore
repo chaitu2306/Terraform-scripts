@@ -3,4 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 *.terraform.lock.hcl
 Terraform*/
-*.terraform.*
+C:\Users\Chait\OneDrive\Desktop\Terraform\.terraform.lock copy.hcl
