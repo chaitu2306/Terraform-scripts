@@ -1,9 +1,0 @@
-.terraform
-.terraform.lock.hcl
-terraform.tfstate
-terraform.tfstate.backup
-.terraformignore
-chaitu-key
-chaitu-key.pub
-build.tf.disabled
-.gitignore
